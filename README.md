@@ -1,36 +1,24 @@
-\# CSE1106 Intro Project
+# CSE1106 Intro Project
 
-
-
-\## Description
+## Description
 
 Uses Python to print "Hello World!"
 
-
-
-\## Programming Language
+## Programming Language
 
 Python
 
-
-
-\## Program Function
+## Program Function
 
 Prints out "Hello World!"
 
+## How to Run the Program
 
-
-\## How to Run the Program
-
-```
-
+```python
 python HelloWorld.py
-
 ```
 
-
-
-\## What I Learned
+## What I Learned
 
 How to use Git and GitHub
 
